@@ -1,0 +1,13 @@
+# Simulation outputs
+*.vcd
+a.out
+
+# Verilator outputs
+obj_dir/
+
+# OS-specific files
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
