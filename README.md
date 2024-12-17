@@ -54,6 +54,7 @@ Right: 000 -> 001 -> 011 -> 111 -> 011 -> 001 -> 000
 ### Prerequisites
 - Icarus Verilog (iverilog)
 - GTKWave (optional, for viewing waveforms)
+- WaveTrace (optional, if you're on VSCode, you can install this extension to view the waveforms instead of downloading GTKWave)
 
 ### Installation
 ```bash
